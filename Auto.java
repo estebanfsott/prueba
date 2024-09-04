@@ -11,7 +11,7 @@ public class Auto{
 		b=entrada.nextInt();
 		
 		suma=a+b;
-		System.out.printf("\nLa suma de los numeros es: %d\n",suma);
+		System.out.printf("\nLa suma de los numeros es:%d\n",suma);
 		
 	}
 }
